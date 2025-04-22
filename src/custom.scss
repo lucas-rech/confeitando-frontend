@@ -1,3 +1,15 @@
-$primary: #ff007b;
-$secondary: #ffffff;
+$primary: #ff82be;
+$secondary: #69374F;
+$success: #008619;
+
+
+
+$body-bg: #f0eee5;
+
+.btn-success:hover {
+    font-weight: 600; // Default font weight
+
+};
+
+
 @import 'bootstrap/scss/bootstrap';
