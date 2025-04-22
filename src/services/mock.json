@@ -1,0 +1,28 @@
+{
+    "flavors": [
+        {
+            "flavor": "Morango",
+            "description": "Um sabor doce e refrescante, perfeito para o verão.",
+            "price": 49.90,
+            "image": "https://plus.unsplash.com/premium_photo-1713447395823-2e0b40b75a89?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "flavor": "Chocolate",
+            "description": "Um clássico que nunca sai de moda, ideal para os amantes de chocolate.",
+            "price": 59.90,
+            "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=1989&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "flavor": "Baunilha",
+            "description": "Um sabor suave e cremoso, perfeito para qualquer ocasião.",
+            "price": 49.90,
+            "image": "https://images.unsplash.com/photo-1624975964661-4999f124a4c3?q=80&w=1978&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "flavor": "Coco",
+            "description": "Um sabor tropical que traz a sensação de férias na praia.",
+            "price": 59.90,
+            "image": "https://images.unsplash.com/photo-1635337778028-ddafdaa5c301?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+    ]
+}
